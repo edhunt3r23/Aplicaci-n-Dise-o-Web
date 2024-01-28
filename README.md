@@ -4,14 +4,14 @@
 
 Podemos encontrar diversas opciones de Markdown para implementar en nuestros README, como lo son:
 
-**Bold** ("** **"): esto devuelve el texto en negritas \n
-_Cursiva_ ("_ _"): esto pone en cursiva el texto
-~~Tachado~~ ("~~~~"): con este símbolo podemos tachar nuestro texto
-_Cursiva en **negrita** y anidada_ ("_** **_"): esto nos permite integrar un tipo dentro de otro
-***Todo en negrita y cursiva*** ("*** ***"): y esto nos deja todo en negrita y cursiva 
-<sub>Subscript</sub> ("<sub></sub>"): Nos devuelve un texto como subíndice
-<sup>Superscript</sup> ("<sup></sup>"): Nos devuelve un texto como superíndice
-> Nos devuelve el texto comillado
+**Bold** ("** **"): esto devuelve el texto en negritas  
+_Cursiva_ ("_ _"): esto pone en cursiva el texto  
+~~Tachado~~ ("~~~~"): con este símbolo podemos tachar nuestro texto  
+_Cursiva en **negrita** y anidada_ ("_** **_"): esto nos permite integrar un tipo dentro de otro  
+***Todo en negrita y cursiva*** ("*** ***"): y esto nos deja todo en negrita y cursiva   
+<sub>Subscript</sub> ("<sub></sub>"): Nos devuelve un texto como subíndice  
+<sup>Superscript</sup> ("<sup></sup>"): Nos devuelve un texto como superíndice  
+> Nos devuelve el texto comillado  
 
 Y también podemos insertar `comillas`
 
