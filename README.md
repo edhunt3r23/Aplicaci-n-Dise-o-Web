@@ -4,7 +4,7 @@
 
 Podemos encontrar diversas opciones de Markdown para implementar en nuestros README, como lo son:
 
-**Bold** ("** **"): esto devuelve el texto en negritas
+**Bold** ("** **"): esto devuelve el texto en negritas \n
 _Cursiva_ ("_ _"): esto pone en cursiva el texto
 ~~Tachado~~ ("~~~~"): con este símbolo podemos tachar nuestro texto
 _Cursiva en **negrita** y anidada_ ("_** **_"): esto nos permite integrar un tipo dentro de otro
